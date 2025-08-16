@@ -36,9 +36,7 @@
 
 ## 🤝 Connect with Me
 
-## 🤝 Connect with Me
-
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/mehan-samarajeewa-87794221b" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
