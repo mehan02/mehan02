@@ -30,7 +30,7 @@
 
 ### 🔗 [University Projects](https://github.com/mehan02/university-projects)
 
-> Group academic projects from SLIIT — including web apps, backend systems, and more.
+> Group academic projects from SLIIT
 
 ---
 
