@@ -28,8 +28,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehanS&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehanS&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehan02&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehan02&layout=compact&theme=radical" />
 </p>
 
 ---
