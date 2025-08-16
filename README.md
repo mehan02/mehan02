@@ -25,14 +25,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehan02&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehan02&layout=compact&theme=radical" />
-</p>
-
----
 
 ## 📁 Featured Projects
 
@@ -44,7 +36,13 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mehan-samarajeewa-87794221b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+## 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mehan-samarajeewa-87794221b" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
+</p>
 
 ---
  
