@@ -28,7 +28,7 @@
 
 ## 📁 Featured Projects
 
-### 🔗 [University Projects](https://github.com/mehan02/university-projects)
+### 🔗 [University Group Projects](https://github.com/mehan02/university-projects)
 
 > Group academic projects from SLIIT
 
