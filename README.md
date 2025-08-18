@@ -3,12 +3,12 @@
 
 ---
 
-🔗 Website: (https://mehan02.github.io/)  
-🚀 Interested in **DevOps and Cloud technologies**
+// Website: (https://mehan02.github.io/)  
+ Interested in **DevOps and Cloud technologies**
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
