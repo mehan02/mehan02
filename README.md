@@ -3,7 +3,7 @@
 
 ---
 
-// Website: (https://mehan02.github.io/)  
+  
  Interested in **DevOps and Cloud technologies**
 
 ---
