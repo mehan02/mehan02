@@ -26,15 +26,15 @@
 ---
 
 
-## 📁 Featured Projects
+## Featured Projects
 
 ### 🔗 [University Group Projects](https://github.com/mehan02/university-projects)
-
+### 🔗[cloudbased--task-manager-Webapp](https://github.com/mehan02/cloudbased--task-manager-Webapp)
 > Group academic projects from SLIIT
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mehan-samarajeewa-87794221b" target="_blank">
