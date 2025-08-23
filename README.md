@@ -56,8 +56,10 @@
 ## Featured Projects
 
 ### 🔗 [University Group Projects](https://github.com/mehan02/university-projects)
-### 🔗 [cloudbased--task-manager-Webapp](https://github.com/mehan02/cloudbased--task-manager-Webapp)
 > Group academic projects from SLIIT
+
+### 🔗 [cloudbased--task-manager-Webapp](https://github.com/mehan02/cloudbased--task-manager-Webapp)
+
 
 ---
 
